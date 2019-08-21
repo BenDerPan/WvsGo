@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>BenDerPan</Authors>
+    <Product>BenDerPan</Product>
+    <Description>Acunetix wvs xml格式结果解析库。</Description>
+    <Copyright>MIT</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/BenDerPan/WvsGo</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/BenDerPan/WvsGo</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>WVS XML Parser 结果 解析</PackageTags>
+    <PackageReleaseNotes>当前能解析WVS10.5版本的xml格式结果，其他版本暂未测试。</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
